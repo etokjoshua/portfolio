@@ -48,8 +48,8 @@ const experienceContent = `
                     </li>
                     <li>
                         <h6>2024 - 2025</h6>
-                        <h5>Wordpress Developer</h5>
-                        <p>Alphanet Nigeria</p>
+                        <h5>Wordpress Designer</h5>
+                        <p>SmartRob Technologies</p>
                     </li>
                 </ul>
 `
