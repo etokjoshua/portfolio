@@ -47,9 +47,9 @@ const experienceContent = `
                         <p>Gtera Hosting</p>
                     </li>
                     <li>
-                        <h6>2024 - 2025</h6>
+                        <h6>2025</h6>
                         <h5>Wordpress Designer</h5>
-                        <p>SmartRob Technologies</p>
+                        <p>SmartRob Tech</p>
                     </li>
                 </ul>
 `
