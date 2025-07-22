@@ -737,6 +737,8 @@ nav {
 }
 
 .header__container {
+  padding-top: 20px;
+  padding-bottom: 20px;
   width: 90%;
 }
 
